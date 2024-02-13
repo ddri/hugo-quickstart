@@ -2,6 +2,11 @@
 
 :root {
   --main-family: 'Poppins', sans-serif;
+  /*
+  --color-bg: linear-gradient(180deg, #FFFFFF 0%, #AEC6DC 100%);
+  */
+
+
 }
 
 html {
